@@ -1,5 +1,5 @@
 import React from "react";
-import Muffin from "../Muffin.jpg";
+import Muffin from "../zhongxuan.jpg";
 
 const AboutMe = () => {
   return (
