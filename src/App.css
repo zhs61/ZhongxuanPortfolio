@@ -4,10 +4,12 @@
   --primary-white: #fff;
   --primary-orange: #f9ab00;
   --primary-dark: rgba(255, 255, 255, 0);
+  --primary-black: #000000;
   --primary-red: #ef4035;
   --primary-hover-red: #f33501;
   --primary-grey: #ccd1d9;
   --primary-dark-grey: #666666;
+  --primary-light-grey: #f4f4f4;
 }
 
 body {
@@ -57,7 +59,7 @@ nav ul li {
     url(react-background.jpg);
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 .main-info {
@@ -151,6 +153,7 @@ nav ul li {
 /* Experience */
 .experience {
   padding: 0.7rem;
+  background-color: var(--primary-light-grey);
 }
 .experience-wrapper {
   position: relative;
@@ -231,4 +234,27 @@ nav ul li {
     direction: ltr;
     width: 100%;
   }
+}
+
+/* Footer */
+/************************ FOOTER COMPONENT *********************************/
+.footer {
+  background: var(--primary-black);
+  color: var(--primary-dark-grey);
+  padding: 3rem;
+}
+
+.footer a {
+  text-decoration: none;
+  color: var(--primary-dark-grey);
+}
+
+.footer a:hover {
+  text-decoration: none;
+  color: var(--primary-orange);
+  cursor: pointer;
+}
+
+.footer p {
+  margin-bottom: 0;
 }
