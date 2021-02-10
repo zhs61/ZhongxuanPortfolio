@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Zhongxuan_Portfolio/static/css/main.c7927658.chunk.css",
-    "main.js": "/Zhongxuan_Portfolio/static/js/main.b009601e.chunk.js",
-    "main.js.map": "/Zhongxuan_Portfolio/static/js/main.b009601e.chunk.js.map",
+    "main.css": "/Zhongxuan_Portfolio/static/css/main.bf18e396.chunk.css",
+    "main.js": "/Zhongxuan_Portfolio/static/js/main.1e7923d9.chunk.js",
+    "main.js.map": "/Zhongxuan_Portfolio/static/js/main.1e7923d9.chunk.js.map",
     "runtime-main.js": "/Zhongxuan_Portfolio/static/js/runtime-main.499959a9.js",
     "runtime-main.js.map": "/Zhongxuan_Portfolio/static/js/runtime-main.499959a9.js.map",
     "static/css/2.150d169a.chunk.css": "/Zhongxuan_Portfolio/static/css/2.150d169a.chunk.css",
-    "static/js/2.63273eee.chunk.js": "/Zhongxuan_Portfolio/static/js/2.63273eee.chunk.js",
-    "static/js/2.63273eee.chunk.js.map": "/Zhongxuan_Portfolio/static/js/2.63273eee.chunk.js.map",
+    "static/js/2.a3adb0e0.chunk.js": "/Zhongxuan_Portfolio/static/js/2.a3adb0e0.chunk.js",
+    "static/js/2.a3adb0e0.chunk.js.map": "/Zhongxuan_Portfolio/static/js/2.a3adb0e0.chunk.js.map",
     "static/js/3.42591335.chunk.js": "/Zhongxuan_Portfolio/static/js/3.42591335.chunk.js",
     "static/js/3.42591335.chunk.js.map": "/Zhongxuan_Portfolio/static/js/3.42591335.chunk.js.map",
     "index.html": "/Zhongxuan_Portfolio/index.html",
     "static/css/2.150d169a.chunk.css.map": "/Zhongxuan_Portfolio/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.c7927658.chunk.css.map": "/Zhongxuan_Portfolio/static/css/main.c7927658.chunk.css.map",
-    "static/js/2.63273eee.chunk.js.LICENSE.txt": "/Zhongxuan_Portfolio/static/js/2.63273eee.chunk.js.LICENSE.txt",
+    "static/css/main.bf18e396.chunk.css.map": "/Zhongxuan_Portfolio/static/css/main.bf18e396.chunk.css.map",
+    "static/js/2.a3adb0e0.chunk.js.LICENSE.txt": "/Zhongxuan_Portfolio/static/js/2.a3adb0e0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Zhongxuan_Portfolio/static/media/react-background.e572fbc7.jpg",
     "static/media/zhongxuan.647adb8f.jpg": "/Zhongxuan_Portfolio/static/media/zhongxuan.647adb8f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.499959a9.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.63273eee.chunk.js",
-    "static/css/main.c7927658.chunk.css",
-    "static/js/main.b009601e.chunk.js"
+    "static/js/2.a3adb0e0.chunk.js",
+    "static/css/main.bf18e396.chunk.css",
+    "static/js/main.1e7923d9.chunk.js"
   ]
 }
