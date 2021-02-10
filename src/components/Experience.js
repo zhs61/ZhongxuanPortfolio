@@ -12,10 +12,10 @@ const Experience = () => {
           <div className="timeline-content">
             <h3>2015-2019</h3>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro
-              dignissimos fugit numquam, saepe placeat eum deserunt tenetur
-              dolore autem! Molestiae dicta autem molestias fugit qui dolore!
-              Molestiae quis ratione labore.
+              I graduated from the Miami University in 2019 with a Bachelor
+              Degree in Computer Science. I listed 3 times in the President's
+              List. I took Data Structure, Algorithms, Computer Graphics and
+              many more interesting courses.
             </p>
           </div>
         </div>
@@ -24,10 +24,8 @@ const Experience = () => {
           <div className="timeline-content">
             <h3>2019-2021</h3>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro
-              dignissimos fugit numquam, saepe placeat eum deserunt tenetur
-              dolore autem! Molestiae dicta autem molestias fugit qui dolore!
-              Molestiae quis ratione labore.
+              I am a Master student at the University of Pittsburgh studying
+              Computer Science. I expected to graduate in May 2021.{" "}
             </p>
           </div>
         </div>
@@ -36,10 +34,9 @@ const Experience = () => {
           <div className="timeline-content">
             <h3>2019-06</h3>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro
-              dignissimos fugit numquam, saepe placeat eum deserunt tenetur
-              dolore autem! Molestiae dicta autem molestias fugit qui dolore!
-              Molestiae quis ratione labore.
+              I started to work at HERL to develop products which can benefit
+              the community. I practice my Web development skills in the
+              process.I love React.
             </p>
           </div>
         </div>
